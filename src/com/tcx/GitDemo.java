@@ -6,5 +6,6 @@ public class GitDemo {
     }
     public void Test(){
         System.out.println("lalala");
+        System.out.println("first test");
     }
 }
